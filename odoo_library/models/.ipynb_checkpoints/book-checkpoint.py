@@ -4,5 +4,5 @@ from odoo import models, fields, api
 
 class Book(models.Model):
     
-    _name = 'library book'
+    _name = 'library.book'
     _description = 'Book Info'

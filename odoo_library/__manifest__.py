@@ -2,8 +2,8 @@
 
 {
     'name': 'Odoo Library',
-    'summary': """Library manager""".
-    'description':""""
+    'summary': """Library manager""",
+    'description':"""
         Module to manege libraries
         - Book
         - Event
